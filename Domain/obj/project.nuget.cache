@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "WJj60T0aCab3MCSGvzrLp/mirjhx2sl6qV90Fa1AjuEwPUr5LxSvKuDejW22CGR2P9Wkcbic9nIHt2cSbVmB5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RZ\\OneDrive\\Desktop\\Freelancing\\NowSoftware\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RZ\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\RZ\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\RZ\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\RZ\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\RZ\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\RZ\\.nuget\\packages\\microsoft.bcl.timeprovider\\8.0.1\\microsoft.bcl.timeprovider.8.0.1.nupkg.sha512",
+    "C:\\Users\\RZ\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\RZ\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.1.0\\microsoft.identitymodel.abstractions.8.1.0.nupkg.sha512",
+    "C:\\Users\\RZ\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.1.0\\microsoft.identitymodel.jsonwebtokens.8.1.0.nupkg.sha512",
+    "C:\\Users\\RZ\\.nuget\\packages\\microsoft.identitymodel.logging\\8.1.0\\microsoft.identitymodel.logging.8.1.0.nupkg.sha512",
+    "C:\\Users\\RZ\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.1.0\\microsoft.identitymodel.tokens.8.1.0.nupkg.sha512",
+    "C:\\Users\\RZ\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.1.0\\system.identitymodel.tokens.jwt.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
